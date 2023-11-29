@@ -21,8 +21,10 @@ Check out the live demo of the Password Generator App [here](https://your-userna
 HTML: Structure of the web page.
 CSS: Styling for a clean and responsive design.
 JavaScript: Logic for generating passwords and handling user interactions.
-📸 Screenshots
-Password Generator App
+
+📸 Screenshot
+![Screenshot 2023-11-29 160501](https://github.com/ShravanThakare/Password-Generator/assets/108409480/57c45020-09ea-4e6a-a5eb-1ab770059bb9)
+
 
 🤝 Contributing
 If you'd like to contribute or have suggestions for improvement, feel free to open an issue or submit a pull request.
@@ -31,7 +33,7 @@ If you'd like to contribute or have suggestions for improvement, feel free to op
 
 For any inquiries or feedback, please feel free to reach out:
 
-- Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin-profile)
+- Email:thakareshravan231@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shravan-thakare/
 
 Enjoy generating strong passwords! 💪🔐
