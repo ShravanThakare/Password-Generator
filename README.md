@@ -15,7 +15,7 @@ Welcome to the Password Generator App! This simple web application helps you gen
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Password Generator App [here](https://your-username.github.io/password-generator-app/).
+Check out the live demo of the Password Generator App [here] https://passwordgeneratorappbyshravanthakare.netlify.app/
 
 🛠 Technologies Used
 HTML: Structure of the web page.
