@@ -11,7 +11,7 @@ Welcome to the Password Generator App! This simple web application helps you gen
 🎨 Features
 ##Password Length: Choose the length of your password (between 8 and 128 characters).
 ##Character Types: Include uppercase letters, lowercase letters, numbers, and special characters in your password.
-##Copy to Clipboard: Easily copy the generated password to your clipboard for quick use.
+##Copy to Clipboard: Easily copy the generated password to your clipboard for quick use..
 
 ## 🌐 Live Demo
 
